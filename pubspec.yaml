@@ -1,5 +1,6 @@
 name: liquid_glass_flutter
-description: "A new Flutter project."
+description: "A Flutter package for applying a dynamic liquid glass distortion effect to any widget using custom GLSL shaders. Inspired by glass stretch, and refraction effects, this package lets you overlay realistic liquid distortions with support for masking, interaction, and custom shapes."
+
 version: 0.0.1
 homepage:
 
