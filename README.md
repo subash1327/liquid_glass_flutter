@@ -4,6 +4,22 @@
 
 ---
 
+## 🔮 Preview
+
+![Preview Animation](preview.gif)
+
+---
+
+## 🖼️ Screenshots
+
+| Example 1                            | Example 2                            |
+|-------------------------------------|-------------------------------------|
+| ![Screenshot 1](image-1.png)        | ![Screenshot 2](image-2.png)        |
+
+---
+
+---
+
 ## ✨ Features
 
 - 🌊 Realistic animated liquid distortion
@@ -120,14 +136,6 @@ LiquidGlass({
 - [ ] Expose shader uniforms like noise strength, stretch, etc.
 - [ ] Add support for different shapes (circles, paths)
 - [ ] Bundle prebuilt shader variations
-
----
-
-## 📸 Preview
-
-(Insert GIF or screenshot of the effect here)
-
----
 
 ## 🧩 License
 
