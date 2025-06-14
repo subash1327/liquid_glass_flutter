@@ -1,6 +1,6 @@
 # 🧊 liquid_glass_flutter
 
-**liquid_glass_flutter** is a Flutter package that brings beautiful, animated **liquid glass distortion** effects to any widget using a custom GLSL fragment shader. Perfect for glassmorphism, water ripple overlays, and creative UI filters.
+**liquid_glass_flutter** is a Flutter package that brings beautiful, animated **liquid glass distortion** effects to any widget using a custom GLSL fragment shader. Perfect for glassmorphism, water ripple overlays, and creative UI filters. iOS 26 #liquidglass #ios26
 
 ---
 
@@ -8,11 +8,11 @@
 
 ![Preview Animation](preview.gif)
 
----
+--- 
 
 ## 🖼️ Screenshots
 
-| Example 1                            | Example 2                            |
+| Screenshot 1                            | Screenshot 2                            |
 |-------------------------------------|-------------------------------------|
 | ![Screenshot 1](image-1.png)        | ![Screenshot 2](image-2.png)        |
 
